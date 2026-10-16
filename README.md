@@ -60,4 +60,4 @@ npm test
 ## Maintainer
 
 Built and maintained by [Aditya Chandra Prajapati](https://github.com/air01aditya).
-Released under the MIT License.
+Released under the [MIT License](LICENSE).
